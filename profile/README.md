@@ -48,7 +48,7 @@
 
 ---
 
-### 🖼️ Screenshots
+
 
 <p align="center">
   <img src="https://image.viewcast.com/image1/recording-studio-pro-plus-for-pc.png" width="600" alt="Recording Studio Pro main interface" />
