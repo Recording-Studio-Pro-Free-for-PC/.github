@@ -53,8 +53,7 @@
 <p align="center">
   <img src="https://image.viewcast.com/image1/recording-studio-pro-plus-for-pc.png" width="600" alt="Recording Studio Pro main interface" />
   <br><br>
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f0/f9/b5/f0f9b5ac-75a8-e414-d957-35b0f4eb01f1/mzl.fhoitwpu.png/552x414bb.png" width="800" alt="Track mixing and export UI" />
-</p>
+
 
 ---
 
